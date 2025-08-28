@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diamond Liquid Gel</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fdfdfd;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 2rem 1rem;
+      background: linear-gradient(135deg, #0d9488, #14b8a6);
+      color: white;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 1rem;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .gallery img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h2 {
+      margin-top: 2rem;
+      color: #0d9488;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .order-btn {
+      display: block;
+      width: fit-content;
+      margin: 2rem auto;
+      padding: 1rem 2rem;
+      background: #0d9488;
+      color: white;
+      text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: bold;
+      border-radius: 30px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      transition: background 0.3s ease;
+    }
+    .order-btn:hover {
+      background: #0f766e;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      margin-top: 3rem;
+      background: #f0fdfa;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Diamond Liquid Gel</h1>
+    <p>Powerful Relief • Trusted Quality • Multi-Use Formula</p>
+  </header>
+
+  <div class="container">
+    <div class="gallery">
+      <img src="c0ae750d-3670-4b09-b7cb-f99a3c2de1e1.jpg" alt="Diamond Liquid Gel 1" />
+      <img src="f8d9283e-0c96-4d51-8fa1-9696d74d5504.jpg" alt="Diamond Liquid Gel 2" />
+      <img src="49e6427f-48e9-4779-98c6-de86ef40dcd9.jpg" alt="Diamond Liquid Gel 3" />
+      <img src="c6d035aa-fe4d-4f6f-84c1-f10095eb628e.jpg" alt="Diamond Liquid Gel 4" />
+      <img src="74ddf951-bab3-4c35-83ee-c67edd539d52.jpg" alt="Diamond Liquid Gel 5" />
+    </div>
+
+    <h2>Usage & Dosage Guide</h2>
+    <ul>
+      <li>Apply a small amount to the affected area.</li>
+      <li>Massage gently until fully absorbed.</li>
+      <li>Use 2–3 times daily for best results.</li>
+      <li>External use only.</li>
+      <li>Keep away from eyes and sensitive areas.</li>
+    </ul>
+
+    <h2>Key Features</h2>
+    <ul>
+      <li>Fast-acting relief.</li>
+      <li>Cooling and soothing formula.</li>
+      <li>Trusted by professionals.</li>
+      <li>Safe for daily use.</li>
+      <li>Convenient gel consistency.</li>
+    </ul>
+
+    <h2>Multi-Use Benefits</h2>
+    <ul>
+      <li>Muscle and joint discomfort.</li>
+      <li>Sports recovery and fitness use.</li>
+      <li>Everyday aches and strains.</li>
+    </ul>
+
+    <a class="order-btn" href="https://wa.me/27800000000?text=I%20would%20like%20to%20order%20Diamond%20Liquid%20Gel">Order on WhatsApp</a>
+  </div>
+
+  <footer>
+    &copy; 2025 Diamond Liquid Gel. All rights reserved.
+  </footer>
+</body>
+</html>
